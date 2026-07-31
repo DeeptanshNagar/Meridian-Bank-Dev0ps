@@ -17,7 +17,7 @@ graph TD
 
     subgraph "AWS Private Cloud (VPC)"
         subgraph "Application Cluster"
-            AppEC2[Application Host (Ubuntu/Docker)]
+            AppEC2["Application Host (Ubuntu/Docker)"]
             DB[(MySQL 8.0 Secure Engine)]
         end
 
