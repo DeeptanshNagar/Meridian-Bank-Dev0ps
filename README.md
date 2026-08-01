@@ -1,5 +1,5 @@
 # 🏦 Meridian Bank: AI-Powered DevSecOps Banking Platform
-
+ 
 An enterprise-grade, containerized financial core engine built on **Spring Boot 3** and **Java 21**, featuring contextual AI-driven customer intelligence. Secured via an automated **9-Gate DevSecOps Pipeline** using keyless OpenID Connect (OIDC) authentication and AWS managed infrastructure.
 
 ---
